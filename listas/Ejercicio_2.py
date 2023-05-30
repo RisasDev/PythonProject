@@ -8,7 +8,7 @@ while True:
             break
         else:
             lista.append(numero)
-            print(f"Se añadio el numero {numero} a la lista")
+            print(f"Se añadio el numero {numero} a la lista.")
     except ValueError:
         print("No es un numero valido")
 

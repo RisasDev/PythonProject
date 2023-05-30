@@ -3,8 +3,7 @@ import random
 lista = []
 
 for i in range(10):
-    random_number = random.randint(1, 100)
-    lista.append(random_number)
+    lista.append(random.randint(1, 100))
 
 lista.sort()
 

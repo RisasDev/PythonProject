@@ -1,4 +1,3 @@
-# Ejercicio 1
 lista = []
 numero = int(input("Ingrese un numero: "))
 
